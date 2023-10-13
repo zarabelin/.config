@@ -8,5 +8,5 @@
 !/picom
 !/qtile
 !/wal
-/qtile/__pycache__
+/qtile/__pycache__/
 !/.gitignore
