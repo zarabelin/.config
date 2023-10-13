@@ -1,0 +1,12 @@
+/*
+!/btop
+!/conky
+!/kitty
+!/neofetch
+!/nitrogen
+!/nvim
+!/picom
+!/qtile
+!/wal
+/qtile/__pycache__
+!/.gitignore
